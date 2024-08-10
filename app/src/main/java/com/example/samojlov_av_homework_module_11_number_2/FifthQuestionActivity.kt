@@ -86,7 +86,7 @@ class FifthQuestionActivity : AppCompatActivity() {
 
             val resultOut = result + resultThis
 
-            val intent = Intent(this, LastActivity::class.java)
+            val intent = Intent(this, ResultActivity::class.java)
             intent.putExtra("fifthAnswer", resultOut.toString())
             intent.putExtra("fifthMessage", strokeOut)
             startActivity(intent)

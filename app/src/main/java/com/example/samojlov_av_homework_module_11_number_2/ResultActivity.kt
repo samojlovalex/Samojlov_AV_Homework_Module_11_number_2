@@ -14,7 +14,7 @@ import androidx.core.view.WindowInsetsCompat
 import com.example.samojlov_av_homework_module_11_number_2.databinding.ActivityLastBinding
 import com.google.android.material.snackbar.Snackbar
 
-class LastActivity : AppCompatActivity() {
+class ResultActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityLastBinding
     private lateinit var toolbarLast: androidx.appcompat.widget.Toolbar
