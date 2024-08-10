@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Samojlov_AV_Homework_Module_11_number_2</string>
+    <string name="exit">Exit</string>
+    <string name="toast_exit">Приложение закрыто</string>
+    <string name="toolbar_title">Я историк</string>
+    <string name="toolbar_subtitle">Mod. 11 № 2</string>
+    <string name="enterLaunchBTN">Начать</string>
+    <string name="messageSnackbarCorrect">Ответ верный: %1$s</string>
+    <string name="messageSnackbarInCorrect">Ответ: %1$s - не верный\nВерный ответ: %2$s</string>
+    <string name="lastResult">Результат</string>
+    <string name="scoreOne">%1$s баллов за тест\n\nПлохой результат</string>
+    <string name="scoreTwo">%1$s баллов за тест\n\nНеудовлетворительный  результат</string>
+    <string name="soreThree">%1$s баллов за тест\n\nУдовлетворительный  результат</string>
+    <string name="scoreFour">%1$s баллов за тест\n\nХороший  результат</string>
+    <string name="scoreFive">%1$s баллов за тест\n\nOтличный  результат</string>
+</resources>
